@@ -67,15 +67,6 @@ class ColorName {
   /// Color: #FFC83036
   static const Color mainRed = Color(0xFFC83036);
 
-  /// Color: #FF42424B
-  static const Color profileCardBackground = Color(0xFF42424B);
-
-  /// Color: #FF3B3B43
-  static const Color profileCardButtonBackground = Color(0xFF3B3B43);
-
-  /// Color: #FF3B3B45
-  static const Color profileCardDetailBackground = Color(0xFF3B3B45);
-
   /// Color: #FF4F0504
   static const Color splashBackground = Color(0xFF4F0504);
 
